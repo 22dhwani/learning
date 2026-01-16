@@ -1,3 +1,3 @@
 # HELLO
 
-this is feature and test
+and test
